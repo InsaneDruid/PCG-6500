@@ -20328,7 +20328,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100uF 16V"
 			(at 240.03 372.4909 0)
 			(effects
 				(font
@@ -22635,7 +22635,7 @@
 		(at 60.96 128.27 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9e8b329c-851a-406c-8cfc-b1db587abbce")
@@ -26019,7 +26019,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9216f27-02a4-4841-8fa2-11e951446fcb")
 		(property "Reference" "C5"
-			(at 361.95 370.84 0)
+			(at 361.95 370.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26027,8 +26027,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47nF 100V"
-			(at 361.95 373.38 0)
+		(property "Value" "47nF 16V"
+			(at 361.95 373.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)

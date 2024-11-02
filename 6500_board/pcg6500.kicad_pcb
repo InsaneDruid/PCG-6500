@@ -2268,7 +2268,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SSOP?14* TSSOP?14*")
-		(path "/29a7a296-bef3-4523-b53f-bb181da9d6c2")
+		(path "/e8ed90e4-26db-4b1f-86af-49588bedec62")
 		(sheetname "Root")
 		(sheetfile "pcg6500.kicad_sch")
 		(attr through_hole)
@@ -3877,7 +3877,7 @@
 				)
 			)
 		)
-		(property "Value" "47nF 100V"
+		(property "Value" "47nF 16V"
 			(at 3.175 2.2 90)
 			(layer "F.Fab")
 			(uuid "32b26fb7-73ea-49e5-baf2-69429127cbd6")
@@ -10370,7 +10370,7 @@
 				)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100uF 16V"
 			(at 2.5 5.25 0)
 			(layer "F.Fab")
 			(uuid "f6b18ee3-da85-403e-925a-19c5b6c379d7")
@@ -14381,7 +14381,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP?16*")
-		(path "/e81b2cf0-923a-4bdb-872f-2cbbd90511af")
+		(path "/f84ccdc0-e8f5-4848-9edd-462c56db79af")
 		(sheetname "Root")
 		(sheetfile "pcg6500.kicad_sch")
 		(attr through_hole)
@@ -20507,7 +20507,7 @@
 		(path "/9e8b329c-851a-406c-8cfc-b1db587abbce")
 		(sheetname "Root")
 		(sheetfile "pcg6500.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start -1.8 24.65)
 			(end 1.8 24.65)
